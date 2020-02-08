@@ -4,7 +4,7 @@ name: Alex Ludwig
 
 # Username (this should match the folder name)
 authors:
-- aludwig25
+-aludwig25
 
 # Is this the primary user of the site?
 superuser: true
