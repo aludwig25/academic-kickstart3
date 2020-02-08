@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Alex Ludwig is an assistant professor of liberal arts at Berklee College of Music. I teach a variety of courses in music history, including topics in Rock History, Viennese Modernism, and Film Music. In addition, I catalogue examples of film that include musical references to the gregorian chant, "Dies Irae."  
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+When I'm not in the classroom, I enjoy playing and coaching soccer, watching hockey, and studying movie musicals. 
