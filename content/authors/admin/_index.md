@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Alex Ludwig
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor of Liberal Arts
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Berklee College of Music
+  url: "berklee.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Sonata Theory, Joseph Haydn, and Film Music.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- String Quartets
+- Dies Irae
+- Filmed Musicals
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Musicology
+    institution: Brandeis University
+    year: 2010
+  - course: MFA in Musicology
+    institution: Brandeis University
+    year: 2003
+  - course: BM in String Performance, Cello
+    institution: Boston University
+    year: 2001
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
